@@ -1,0 +1,14 @@
+D:\2026\HK1\C-Sharp\Tuan03\bin\Debug\net8.0\BaiThucHanhLINQ.exe
+D:\2026\HK1\C-Sharp\Tuan03\bin\Debug\net8.0\BaiThucHanhLINQ.deps.json
+D:\2026\HK1\C-Sharp\Tuan03\bin\Debug\net8.0\BaiThucHanhLINQ.runtimeconfig.json
+D:\2026\HK1\C-Sharp\Tuan03\bin\Debug\net8.0\BaiThucHanhLINQ.dll
+D:\2026\HK1\C-Sharp\Tuan03\bin\Debug\net8.0\BaiThucHanhLINQ.pdb
+D:\2026\HK1\C-Sharp\Tuan03\obj\Debug\net8.0\BaiThucHanhLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026\HK1\C-Sharp\Tuan03\obj\Debug\net8.0\BaiThucHanhLINQ.AssemblyInfoInputs.cache
+D:\2026\HK1\C-Sharp\Tuan03\obj\Debug\net8.0\BaiThucHanhLINQ.AssemblyInfo.cs
+D:\2026\HK1\C-Sharp\Tuan03\obj\Debug\net8.0\BaiThucHanhLINQ.csproj.CoreCompileInputs.cache
+D:\2026\HK1\C-Sharp\Tuan03\obj\Debug\net8.0\BaiThucHanhLINQ.dll
+D:\2026\HK1\C-Sharp\Tuan03\obj\Debug\net8.0\refint\BaiThucHanhLINQ.dll
+D:\2026\HK1\C-Sharp\Tuan03\obj\Debug\net8.0\BaiThucHanhLINQ.pdb
+D:\2026\HK1\C-Sharp\Tuan03\obj\Debug\net8.0\BaiThucHanhLINQ.genruntimeconfig.cache
+D:\2026\HK1\C-Sharp\Tuan03\obj\Debug\net8.0\ref\BaiThucHanhLINQ.dll
