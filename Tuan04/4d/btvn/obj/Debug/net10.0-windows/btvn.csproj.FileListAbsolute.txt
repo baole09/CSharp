@@ -1,0 +1,14 @@
+D:\2026\HK1\C-Sharp\tuan4\4d\btvn\obj\Debug\net10.0-windows\btvn.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026\HK1\C-Sharp\tuan4\4d\btvn\obj\Debug\net10.0-windows\btvn.AssemblyInfoInputs.cache
+D:\2026\HK1\C-Sharp\tuan4\4d\btvn\obj\Debug\net10.0-windows\btvn.AssemblyInfo.cs
+D:\2026\HK1\C-Sharp\tuan4\4d\btvn\obj\Debug\net10.0-windows\btvn.csproj.CoreCompileInputs.cache
+D:\2026\HK1\C-Sharp\tuan4\4d\btvn\bin\Debug\net10.0-windows\btvn.exe
+D:\2026\HK1\C-Sharp\tuan4\4d\btvn\bin\Debug\net10.0-windows\btvn.deps.json
+D:\2026\HK1\C-Sharp\tuan4\4d\btvn\bin\Debug\net10.0-windows\btvn.runtimeconfig.json
+D:\2026\HK1\C-Sharp\tuan4\4d\btvn\bin\Debug\net10.0-windows\btvn.dll
+D:\2026\HK1\C-Sharp\tuan4\4d\btvn\bin\Debug\net10.0-windows\btvn.pdb
+D:\2026\HK1\C-Sharp\tuan4\4d\btvn\obj\Debug\net10.0-windows\btvn.dll
+D:\2026\HK1\C-Sharp\tuan4\4d\btvn\obj\Debug\net10.0-windows\refint\btvn.dll
+D:\2026\HK1\C-Sharp\tuan4\4d\btvn\obj\Debug\net10.0-windows\btvn.pdb
+D:\2026\HK1\C-Sharp\tuan4\4d\btvn\obj\Debug\net10.0-windows\btvn.genruntimeconfig.cache
+D:\2026\HK1\C-Sharp\tuan4\4d\btvn\obj\Debug\net10.0-windows\ref\btvn.dll

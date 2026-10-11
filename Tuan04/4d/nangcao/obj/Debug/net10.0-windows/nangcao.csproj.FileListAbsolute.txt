@@ -1,0 +1,14 @@
+D:\2026\HK1\C-Sharp\tuan4\4d\nangcao\bin\Debug\net10.0-windows\nangcao.exe
+D:\2026\HK1\C-Sharp\tuan4\4d\nangcao\bin\Debug\net10.0-windows\nangcao.deps.json
+D:\2026\HK1\C-Sharp\tuan4\4d\nangcao\bin\Debug\net10.0-windows\nangcao.runtimeconfig.json
+D:\2026\HK1\C-Sharp\tuan4\4d\nangcao\bin\Debug\net10.0-windows\nangcao.dll
+D:\2026\HK1\C-Sharp\tuan4\4d\nangcao\bin\Debug\net10.0-windows\nangcao.pdb
+D:\2026\HK1\C-Sharp\tuan4\4d\nangcao\obj\Debug\net10.0-windows\nangcao.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026\HK1\C-Sharp\tuan4\4d\nangcao\obj\Debug\net10.0-windows\nangcao.AssemblyInfoInputs.cache
+D:\2026\HK1\C-Sharp\tuan4\4d\nangcao\obj\Debug\net10.0-windows\nangcao.AssemblyInfo.cs
+D:\2026\HK1\C-Sharp\tuan4\4d\nangcao\obj\Debug\net10.0-windows\nangcao.csproj.CoreCompileInputs.cache
+D:\2026\HK1\C-Sharp\tuan4\4d\nangcao\obj\Debug\net10.0-windows\nangcao.dll
+D:\2026\HK1\C-Sharp\tuan4\4d\nangcao\obj\Debug\net10.0-windows\refint\nangcao.dll
+D:\2026\HK1\C-Sharp\tuan4\4d\nangcao\obj\Debug\net10.0-windows\nangcao.pdb
+D:\2026\HK1\C-Sharp\tuan4\4d\nangcao\obj\Debug\net10.0-windows\nangcao.genruntimeconfig.cache
+D:\2026\HK1\C-Sharp\tuan4\4d\nangcao\obj\Debug\net10.0-windows\ref\nangcao.dll
