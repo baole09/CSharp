@@ -1,0 +1,14 @@
+D:\2026\HK1\C-Sharp\Tuan05\5c\nangcao\obj\Debug\net10.0-windows\nangcao.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026\HK1\C-Sharp\Tuan05\5c\nangcao\obj\Debug\net10.0-windows\nangcao.AssemblyInfoInputs.cache
+D:\2026\HK1\C-Sharp\Tuan05\5c\nangcao\obj\Debug\net10.0-windows\nangcao.AssemblyInfo.cs
+D:\2026\HK1\C-Sharp\Tuan05\5c\nangcao\obj\Debug\net10.0-windows\nangcao.csproj.CoreCompileInputs.cache
+D:\2026\HK1\C-Sharp\Tuan05\5c\nangcao\obj\Debug\net10.0-windows\nangcao.genruntimeconfig.cache
+D:\2026\HK1\C-Sharp\Tuan05\5c\nangcao\bin\Debug\net10.0-windows\Bai5c_nangcao.exe
+D:\2026\HK1\C-Sharp\Tuan05\5c\nangcao\bin\Debug\net10.0-windows\Bai5c_nangcao.deps.json
+D:\2026\HK1\C-Sharp\Tuan05\5c\nangcao\bin\Debug\net10.0-windows\Bai5c_nangcao.runtimeconfig.json
+D:\2026\HK1\C-Sharp\Tuan05\5c\nangcao\bin\Debug\net10.0-windows\Bai5c_nangcao.dll
+D:\2026\HK1\C-Sharp\Tuan05\5c\nangcao\bin\Debug\net10.0-windows\Bai5c_nangcao.pdb
+D:\2026\HK1\C-Sharp\Tuan05\5c\nangcao\obj\Debug\net10.0-windows\Bai5c_nangcao.dll
+D:\2026\HK1\C-Sharp\Tuan05\5c\nangcao\obj\Debug\net10.0-windows\refint\Bai5c_nangcao.dll
+D:\2026\HK1\C-Sharp\Tuan05\5c\nangcao\obj\Debug\net10.0-windows\Bai5c_nangcao.pdb
+D:\2026\HK1\C-Sharp\Tuan05\5c\nangcao\obj\Debug\net10.0-windows\ref\Bai5c_nangcao.dll
