@@ -1,0 +1,14 @@
+D:\2026\HK1\C-Sharp\Tuan05\5c\btvn2\obj\Debug\net10.0-windows\btvn2.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026\HK1\C-Sharp\Tuan05\5c\btvn2\obj\Debug\net10.0-windows\btvn2.AssemblyInfoInputs.cache
+D:\2026\HK1\C-Sharp\Tuan05\5c\btvn2\obj\Debug\net10.0-windows\btvn2.AssemblyInfo.cs
+D:\2026\HK1\C-Sharp\Tuan05\5c\btvn2\obj\Debug\net10.0-windows\btvn2.csproj.CoreCompileInputs.cache
+D:\2026\HK1\C-Sharp\Tuan05\5c\btvn2\obj\Debug\net10.0-windows\btvn2.genruntimeconfig.cache
+D:\2026\HK1\C-Sharp\Tuan05\5c\btvn2\bin\Debug\net10.0-windows\Bai5c_btvn2.exe
+D:\2026\HK1\C-Sharp\Tuan05\5c\btvn2\bin\Debug\net10.0-windows\Bai5c_btvn2.deps.json
+D:\2026\HK1\C-Sharp\Tuan05\5c\btvn2\bin\Debug\net10.0-windows\Bai5c_btvn2.runtimeconfig.json
+D:\2026\HK1\C-Sharp\Tuan05\5c\btvn2\bin\Debug\net10.0-windows\Bai5c_btvn2.dll
+D:\2026\HK1\C-Sharp\Tuan05\5c\btvn2\bin\Debug\net10.0-windows\Bai5c_btvn2.pdb
+D:\2026\HK1\C-Sharp\Tuan05\5c\btvn2\obj\Debug\net10.0-windows\Bai5c_btvn2.dll
+D:\2026\HK1\C-Sharp\Tuan05\5c\btvn2\obj\Debug\net10.0-windows\refint\Bai5c_btvn2.dll
+D:\2026\HK1\C-Sharp\Tuan05\5c\btvn2\obj\Debug\net10.0-windows\Bai5c_btvn2.pdb
+D:\2026\HK1\C-Sharp\Tuan05\5c\btvn2\obj\Debug\net10.0-windows\ref\Bai5c_btvn2.dll
