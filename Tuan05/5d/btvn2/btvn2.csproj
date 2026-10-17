@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>BTVN_Tuan5</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\5c\bai1\bai1.csproj" Aliases="Bai5c_bai1" />
+    <ProjectReference Include="..\..\5c\bai2\bai2.csproj" Aliases="Bai5c_bai2" />
+    <ProjectReference Include="..\..\5c\btvn1\btvn1.csproj" Aliases="Bai5c_btvn1" />
+    <ProjectReference Include="..\..\5c\btvn2\btvn2.csproj" Aliases="Bai5c_btvn2" />
+    <ProjectReference Include="..\..\5c\btvn3\btvn3.csproj" Aliases="Bai5c_btvn3" />
+    <ProjectReference Include="..\..\5c\nangcao\nangcao.csproj" Aliases="Bai5c_nangcao" />
+    <ProjectReference Include="..\..\5d\bai1\bai1.csproj" Aliases="Bai5d_bai1" />
+    <ProjectReference Include="..\..\5d\bai2\bai2.csproj" Aliases="Bai5d_bai2" />
+    <ProjectReference Include="..\..\5d\btvn1\btvn1.csproj" Aliases="Bai5d_btvn1" />
+    <ProjectReference Include="..\..\5d\nangcao\nangcao.csproj" Aliases="Bai5d_nangcao" />
+  </ItemGroup>
+</Project>
