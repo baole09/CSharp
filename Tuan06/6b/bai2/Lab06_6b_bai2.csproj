@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="15.0">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AssemblyName>Lab06_6b_bai2</AssemblyName>
+    <OutputPath>bin\Debug\</OutputPath>
+    <ProjectGuid>{C00DF8D7-833F-4DFB-BED5-36EE8C11C645}</ProjectGuid>
+    <RootNamespace>Lab06</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Form1.cs" />
+    <Compile Include="Database.cs" />
+    <Compile Include="LabForm.cs" />
+    <None Include="App.config" />
+    <None Include="HuongDan.md" />
+    <None Include="Database/QLSinhVien.sql" />
+  </ItemGroup>
+</Project>
